@@ -1,10 +1,10 @@
 W00t?
 ==================
-This repository contains description of the first LatCraft + AWS challenge - CraftNet application.
+This repository contains description of the first Cloudopoly challenge.
 
 Problem definition
 ==========
-Publish web service that accepts 3 keyword search criteria. 
+Publish web service that accepts 3 keywords as a search criteria. 
 
 Web service must respond with the most popular book (with the higest average rating) for each keyboard on all three Amazon websites:
 * amazon.co.uk
@@ -24,3 +24,5 @@ Expected JSON Response:
 ```
 
 Web service which returns the expected result faster will win.
+
+Good luck!
