@@ -23,6 +23,11 @@ Expected JSON Response:
 ]
 ```
 
+# Requirements
+Service must be deployed on AWS Free Tier.
+
+# Winner election
+
 Web service which returns the expected result faster will win.
 
 Good luck!
