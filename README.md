@@ -2,8 +2,21 @@ W00t?
 ==================
 This repository contains description of the first LatCraft + AWS challenge - CraftNet application.
 
-Definition
+Problem definition
 ==========
-Create application that collects Meetup.com events based on search criteria.
+Publish web service that accepts 3 keyword search criteria. 
 
-bla-blalad
+Web service must respond with the most popular book (with the higest average rating) for each keyboard on all three Amazon websites:
+* amazon.co.uk
+* amazon.fr
+* amazon.de
+
+Expected Response:
+
+```
+[
+  "Brief History of Time"
+  "Clean Coder"
+  "Continuous Delivery"
+]
+```
