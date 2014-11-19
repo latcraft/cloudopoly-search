@@ -25,7 +25,7 @@ Expected JSON Response:
 
 # Requirements
 - Service must be deployed on AWS Free Tier.
-- IP address must be sent to contest@latcraft.lv before 05.01.2015 18:00
+- IP address must be sent to contest@latcraft.lv before 06.01.2015 16:00
 
 # Winner election
 
