@@ -29,6 +29,6 @@ Expected JSON Response:
 
 # Winner election
 
-Web service which returns the expected result faster will win.
+Web services which return the expected result faster will win.
 
 ### Good luck!
