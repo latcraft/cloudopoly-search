@@ -20,3 +20,5 @@ Expected Response:
   "Continuous Delivery"
 ]
 ```
+
+Web service which returns the expected result faster will win.
