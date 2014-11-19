@@ -11,9 +11,9 @@ Web service must respond with the most popular book (with the higest average rat
 * amazon.fr
 * amazon.de
 
-Expected Input: "Time", "Coder", Delivery"
+Expected Input: http://ipAddress/search?query=Time+Coder+Delivery
 
-Expected Response:
+Expected JSON Response:
 
 ```
 [
