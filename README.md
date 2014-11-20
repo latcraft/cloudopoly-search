@@ -6,7 +6,7 @@ Problem definition
 ==========
 Publish web service that accepts 3 keywords as a search criteria. 
 
-Web service must respond with the most popular book (with the higest average rating) for each keyboard on all three Amazon websites:
+Web service must respond with the most popular book (with the higest average rating) for each keywoard on all three Amazon websites:
 * amazon.co.uk
 * amazon.fr
 * amazon.de
