@@ -35,11 +35,11 @@ Book rating should be calculated using the following formula:
    R = (R<sub>afr</sub> * N<sub>afr</sub> + R<sub>ade</sub> * N<sub>ade</sub> + R<sub>auk</sub> * N<sub>auk</sub>) / (N<sub>afr</sub> + N<sub>ade</sub> + N<sub>auk</sub>)
 
 - R<sub>afr</sub> - average rating on amazon.fr
-- N<sub>afr</sub> - number of ratings amazon.fr
+- N<sub>afr</sub> - number of ratings on amazon.fr
 - R<sub>ade</sub> - average rating on amazon.de
-- N<sub>ade</sub>  - number of ratings amazon.de
+- N<sub>ade</sub>  - number of ratings on amazon.de
 - R<sub>auk</sub> - average rating on amazon.co.uk
-- N<sub>auk</sub> - number of ratings amazon.co.uk
+- N<sub>auk</sub> - number of ratings on amazon.co.uk
 
 # Requirements
 
