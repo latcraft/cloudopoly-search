@@ -16,15 +16,15 @@ Web service must respond with the most popular book (with the highest average ra
 
 Expected input: 
 
-        http://<ip address>/search?query=Time+Coder+Delivery
+        http://<ip address>/search?query=Linux+Ubuntu+MacOs
 
 Expected JSON response:
 
 ```
 [
-  "Brief History of Time",
-  "Clean Coder",
-  "Continuous Delivery"
+  "Practical Vim", 
+  "The Linux Command Line", 
+  "Mac OS X Snow Leopard"
 ]
 ```
 
@@ -40,6 +40,8 @@ Book rating should be calculated using the following formula:
 - N<sub>ade</sub>  - number of ratings on amazon.de
 - R<sub>auk</sub> - average rating on amazon.co.uk
 - N<sub>auk</sub> - number of ratings on amazon.co.uk
+
+NOTE: Only books with **at least 15 reviews** should be considered for result.
 
 # Example searches
 
