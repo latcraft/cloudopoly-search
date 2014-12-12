@@ -46,7 +46,7 @@ Book rating should be calculated using the following formula:
 The following list shows example URLs that return book query results for a given KEYWORD on the web:
 
 - amazon.co.uk 
-    <http://www.amazon.co.uk/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=<KEYWORD>&sort=review-rank
+    http://www.amazon.co.uk/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=<KEYWORD>&sort=review-rank
 - amazon.de
     http://www.amazon.de/s/ref=nb_sb_noss_2?url=search-alias%3Dstripbooks&field-keywords=<KEYWORD>&sort=review-rank
 - amazon.fr
