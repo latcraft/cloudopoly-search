@@ -41,7 +41,7 @@ Book rating should be calculated using the following formula:
 - R<sub>auk</sub> - average rating on amazon.co.uk
 - N<sub>auk</sub> - number of ratings on amazon.co.uk
 
-# Example queries
+# Example searches
 
 The following list shows example URLs that return book query results for a given KEYWORD on the web:
 
