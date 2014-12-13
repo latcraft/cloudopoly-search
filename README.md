@@ -22,10 +22,9 @@ Expected JSON response:
 
 ```
 [
-  "http://<s3 ip address>>/<<image name>>.<<extension>>", 
-  "http://<s3 ip address>>/<<image name>>.<<extension>>",
-  ... 7 more entries here
-  "http://<s3 ip address>>/<<image name>>.<<extension>>"
+  "Practical Vim", 
+  "The Linux Command Line", 
+  "Mac OS X Snow Leopard"
 ]
 ```
 
