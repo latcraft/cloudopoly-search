@@ -16,15 +16,16 @@ Web service must respond with the most popular book (with the highest average ra
 
 Expected input: 
 
-        http://<ip address>/search?query=Linux+Ubuntu+MacOs
+        
 
 Expected JSON response:
 
 ```
 [
-  "Practical Vim", 
-  "The Linux Command Line", 
-  "Mac OS X Snow Leopard"
+  "http://<s3 ip address>>/<<image name>>.<<extension>>", 
+  "http://<s3 ip address>>/<<image name>>.<<extension>>",
+  ... 7 more entries here
+  "http://<s3 ip address>>/<<image name>>.<<extension>>"
 ]
 ```
 
