@@ -15,7 +15,9 @@ Web service must respond with the most popular book (with the highest average ra
  * amazon.de
 
 Expected input: 
-
+```
+http://<ip address>/search?query=Linux+Ubuntu+MacOs
+```
         
 
 Expected JSON response:
