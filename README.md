@@ -75,6 +75,6 @@ The following list shows example URLs that return book query results for a given
 
 # Winner election
 
-Web services, which return the expected result faster, will win.
+Web services, which return the expected result faster, will win. Test data set consists of 3 queries, each query contains 3 keywords. Each query will be sent 3 times to the web service published at your IP address.
 
 ### Good luck!
