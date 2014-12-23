@@ -45,6 +45,8 @@ Book rating should be calculated using the following formula:
 
 NOTE: Only books with **at least 15 reviews** should be considered for result.
 
+NOTE: For book title matching on different web sites, consider the following rule: remove everything that is after colon or semicolon (if any), and anything that is in the brackets (if any). If titles have the same rating, then return the one with the biggest number of reviews. If titles have the same rating and the same number in reviews, then return the one that goes first in alphabetical order. 
+
 # Example searches
 
 The following list shows example URLs that return book query results for a given KEYWORD on the web:
