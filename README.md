@@ -25,7 +25,7 @@ Expected JSON response:
 ```
 [
   "Practical Vim", 
-  "The Linux Command Line", 
+  "Linux", 
   "Mac OS X Snow Leopard"
 ]
 ```
