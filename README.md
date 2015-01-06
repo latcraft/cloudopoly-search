@@ -67,6 +67,8 @@ The following list shows example URLs that return book query results for a given
     - `field-keywords=[KEYWORD]&`
     - `sort=review-rank`
 
+You can check your results [here](http://contest.latcraft.lv).
+
 # Requirements
 
 - Any programming language, any operating system
